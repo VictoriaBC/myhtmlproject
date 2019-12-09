@@ -1,0 +1,11 @@
+Once upon a time
+There was a wicked witchWho thought she was queen ocf the land!
+diff --git a/story.txt b/story.txt
+index 783a6af..ed1e1cd 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,2 +1,2 @@
+ Once upon a time
+-There was a wicked witch
+\ No newline at end of file
++There was a wicked witchWho thought she was queen ocf the land!

@@ -73,7 +73,7 @@ Documentation - ReadMe File, Licence & Mockups, wireframes and website structure
 Website was tested through a number of means such as Lighthouse, validate W3C, Chrome Lens and Inspect element in Chrome. Tests included responsiveness on different browsers such as Safari and Chrome, accessibility, performance, SEO and best practice.
 
 <h3>Validate W3C</h3>
-There a few errors to fix from Validate W3C.
+There are few errors to fix from Validate W3C.
 <img src="https://victoriabc.github.io/myhtmlproject/Screen Shot 2019-12-10 at 19.56.01.png" alt="demo website" title="Desktop Demo" style="max-width:100%;">
 
 <h3>Lighthouse</h3>
@@ -85,5 +85,6 @@ There a few errors to fix from Validate W3C.
 <p>Chrome lens was used to check and present visually tabbing order. Overall a positive result. See example:</p>
 <img src="https://victoriabc.github.io/myhtmlproject/Screen Shot 2019-12-10 at 17.47.55.png" alt="demo website" title="Desktop Demo" style="max-width:100%;">
 
+<h3>Other tests</h3>
 <p>All forms function well and give error feedback. To make the forms accessible I have to add lables.</p>
 <p>The CV is downloadable och is in PDF format.</p>

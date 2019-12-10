@@ -64,7 +64,7 @@ Documentation - ReadMe File, Licence & Mockups, wireframes and website structure
 <li>UX elements</li>
 <li>Animations</li>
 <li>Transitions</li>
-<li>Accesibilityv
+<li>Accesibility</li>
 <li>Git - Version Control System</li>
 <li>GitHub - Remote Repository</li>
 <li>Deployed - Hosted on Github Pages</li>

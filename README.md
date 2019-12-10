@@ -3,7 +3,7 @@ A personal portfolio website. Displayed information i about author and has autho
 
 Hosted on GitHub Pages Repository on GitHub
 
-License
+<h2>License</h2>
 The project is shared for use
 
 UX

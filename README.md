@@ -6,34 +6,34 @@ Hosted on GitHub Pages Repository on GitHub
 <h2>License</h2>
 The project is shared for use
 
-UX
+<h2>UX</h2>
 Responsive Views of Website
 
-Users
+<h2>Users</h2>
 Expected users of this website are potential clients, other designers and employers
 
-User Stories
+<h2>User Stories</h2>
 A potenial client needs a UX specialist who is also creative and energetic with good experience
 A designer who would like to get inspired of another designer to improve themselves
 An employer looking for a UX Designer with visual skills and good experience
 
-Colour scheme consists of complementary colours
+<h2>Colour scheme consists of complementary colours</h2>
 Primary-color: #232628
 Secondary-color: #212529;
 Background-color: #d8d8d8
 
-
+<h2>Font</h2>
 Heading font is Georgia and site-wide font is Open Sans
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 
-Mockups
+<h2>Mockups</h2>
 The web consists of multiple pages
 
-Features
+<h2>Features</h2>
 Features planned, implemented and outlined for later development
 
-Features used
+<h2>Features used</h2>
 Documentation - ReadMe File, Licence & Mockups
 Colour Scheme
 Jasmine Testing
@@ -53,7 +53,7 @@ Deployed - Hosted on Github Pages
 Existing Features
 Documentation - ReadMe File, Licence & Mockups
 
-Planned Features
+<h2>Planned Features</h2>
 Documentation - ReadMe File, Licence & Mockups
 Colour Scheme
 Jasmine Testing
@@ -74,21 +74,9 @@ Existing Features
 Documentation - ReadMe File, Licence & Mockups
 Javascript
 
-Testing responsiveness of the website
+<h2>Testing responsiveness of the website</h2>
 Testing
 The site was tested through a number of means.
 
-Jasmine Test First Development
+<h2>Jasmine Test First Development</h2>
 Jasmine was used for test first development where tests are written first then the fuctionality is written to pass the tests. Steps to test with Jasmine are as follows:
-
-Open testing.html in the root directory
-Run using a live server process
-Visit the page with localhost:[port]/testing.html
-The opened page will show the result of the assigned tests
-Alternatively:
-
-Visit the hosted version of the website
-In the url add testing.html/ to the end
-The opened page will show the result of the assigned tests
-Tests were written first. Development met with hurdles that had to be worked around, making TFD infeasible in this case.
-# myhtmlproject

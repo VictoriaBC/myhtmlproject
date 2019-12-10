@@ -90,4 +90,7 @@ There are few errors to fix from Validate W3C.
 <p>The CV is downloadable och is in PDF format.</p>
 
 <h2>Deployment</h2>
-The website is hosted using GitHub pages and deployed directly from the master branch. The landing page is named index.html for correct deployment. https://victoriabc.github.io/myhtmlproject/Portfolio_Victoria/index.html
+The website is hosted using GitHub pages and deployed directly from the master branch. The landing page is named index.html for correct deployment https://victoriabc.github.io/myhtmlproject/Portfolio_Victoria/index.html
+
+<h2>Credits</h2>
+All images and text belong to the author of this website. Icons are taken from Fontawesome. Code was inspired from Codeinstitute courses and W3Schools.

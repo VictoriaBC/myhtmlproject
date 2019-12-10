@@ -1,11 +1,15 @@
 <h1>My personal website</h1>
-Victoria P. Ben-Chivar
-A personal portfolio website. Displayed information i about author and has author's CV and portfolio presented. Social media buttons included.
+A personal portfolio website. Displayed information is about author and has author's CV and portfolio presented. Social media buttons included.
 
 Hosted on GitHub Pages Repository on GitHub
 
 <h2>License</h2>
 The project is shared for use
+
+<h2>Technologies</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
 
 <h2>UX</h2>
 Responsive Views of Website
@@ -15,7 +19,7 @@ Responsive Views of Website
 Expected users of this website are potential clients, other designers and employers
 
 <h2>User Stories</h2>
-A potenial client needs a UX specialist who is also creative and energetic with good experience
+<li>A potenial client needs a UX specialist who is also creative and energetic with good experience</li>
 A designer who would like to get inspired of another designer to improve themselves
 An employer looking for a UX Designer with visual skills and good experience
 

@@ -1,3 +1,4 @@
+<h1>My personal website</h1>
 Victoria P. Ben-Chivar
 A personal portfolio website. Displayed information i about author and has author's CV and portfolio presented. Social media buttons included.
 
@@ -8,6 +9,7 @@ The project is shared for use
 
 <h2>UX</h2>
 Responsive Views of Website
+<img src="https://victoriabc.github.io/myhtmlproject/Portfolio_Victoria/assets/images/Demo_website.png" alt="demo website" title="Desktop Demo" style="max-width:100%;">
 
 <h2>Users</h2>
 Expected users of this website are potential clients, other designers and employers

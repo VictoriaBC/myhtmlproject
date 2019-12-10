@@ -88,3 +88,6 @@ There are few errors to fix from Validate W3C.
 <h3>Other tests</h3>
 <p>All forms function well and give error feedback. To make the forms accessible I have to add lables.</p>
 <p>The CV is downloadable och is in PDF format.</p>
+
+<h2>Deployment</h2>
+The website is hosted using GitHub pages and deployed directly from the master branch. The landing page is named index.html for correct deployment. https://victoriabc.github.io/myhtmlproject/Portfolio_Victoria/index.html
